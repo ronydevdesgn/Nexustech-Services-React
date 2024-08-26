@@ -1,5 +1,6 @@
 {
   "name": "nexustech-services",
+  "description": "App web, desenvolvido para apresentar os serviços que a empresa Nexustech oferece!",
   "private": true,
   "version": "0.0.0",
   "type": "module",
